@@ -8,4 +8,4 @@ This project was built for college coursework
 (https://www.youtube.com/watch?v=6diwmul_VFQ "Java Ecommerce Demonstration") 
 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
