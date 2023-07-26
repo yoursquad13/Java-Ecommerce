@@ -1,0 +1,13 @@
+version: '3.3'
+services:
+  teachteam-mysql-db:
+    image: mysql:8.0
+    container_name: teachteam-mysql-db
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_USER: techteam
+      MYSQL_PASSWORD: 123456Aa@
+      MYSQL_DATABASE: ecommerce
+      MYSQL_ROOT_HOST: '%'
