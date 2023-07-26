@@ -6,3 +6,6 @@ This project was built for college coursework
 [![Java Ecommerce Demonstration]
 (https://i.ytimg.com/vi/6diwmul_VFQ/maxresdefault.jpg)] 
 (https://www.youtube.com/watch?v=6diwmul_VFQ "Java Ecommerce Demonstration") 
+
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
